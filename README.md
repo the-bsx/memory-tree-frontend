@@ -27,7 +27,7 @@ Built with **React + Vite**, talking to a separate Node.js/Express + PostgreSQL 
 ## 🧱 Tech Stack
 
 - **React 19** + **Vite**
-- **React Router** for client-side routing
+- **React Router** for client-side routing 
 - **Axios** for API calls, with interceptors for auth token attachment and silent refresh
 - **TailwindCSS** (custom palette: `bark`, `parchment`, `sage`, `clay`, `ink`, `mist`)
 - Backend (separate repo): Node.js, Express, PostgreSQL, Cloudinary for media storage
